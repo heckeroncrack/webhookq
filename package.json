@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delivey/webhookq.git"
+    "url": "git+https://github.com/heckeroncrack/webhookq.git"
   },
-  "author": "",
+  "author": "heckeroncrack",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/delivey/webhookq/issues"
+    "url": "https://github.com/heckeroncrack/webhookq/issues"
   },
-  "homepage": "https://github.com/delivey/webhookq#readme",
+  "homepage": "https://github.com/heckeroncrack/webhookq#readme",
   "dependencies": {
     "agenda": "^4.0.1",
     "axios": "^0.21.2",
